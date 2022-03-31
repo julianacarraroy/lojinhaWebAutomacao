@@ -91,7 +91,7 @@ public class Produtostest {
     @AfterEach
     public void afterEach () {
         //Vou fechar o navegador
-        navegador.quit();
+        //navegador.quit();
 
         }
 
